@@ -16,6 +16,14 @@
 "chmod +" add permission
 "./name of file " to print content inside them
 "apt-get update" to update 
-"apt-get upgrade to upgrade
+"apt-get "upgrade to upgrade
+"bash" to Execute shell program
+"top" showung linux processes
+"kill" terminate processes manually
+"w" to know who is logged on and what they are doing 
+"whoami" current user
+"touch" creating empty file
+"dpkg -i name of deb file" to install deb file without APT
+
 
 
