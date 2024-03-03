@@ -1,53 +1,56 @@
 
-"ls" is use to show all folders and files in diractory 
+```bash
+ls - is use to show all folders and files  
 
-"cd" is use for change diractory 
+cd -  is use to change diractory 
 
-"cd .. " is use to back to directory 
+cd .. - is use to back to directory 
 
-"pwd" is use for check location
+pwd - is use to check location
 
-"dir" it's also use to show all folder and directorys
+dir - it's also use to show all folder and directorys
 
-"mkdir" to create a directory(folder)
+mkdir - to create a directory(folder)
 
-"cp" copy a file or folder
+cp - copy a file or folder
 
-"mv" for move file 
+mv - for move file 
 
-"rm" for delete file
+rm - for delete file
 
-"sudo su" for enter as a root orde
+sudo su - for enter as a root orde
 
-"cat" show contant in file
+cat - show contant in file
 
-"nano" linux file editor
+nano linux file editor
 
-"gedit" file edit softwere
+gedit - file edit softwere
 
-"chmod -" remoove permission
+chmod - - remoove permission
 
-"chmod +" add permission
+chmod + - add permission
 
-"./name of file " to print content inside them
+./name of file - to print content inside them
 
-"apt-get update" to update 
+apt-get update - to update 
 
-"apt-get "upgrade to upgrad 
+apt-get - upgrade to upgrad 
 
-"bash" to Execute shell program
+bash - to Execute shell program
 
-"top" showung linux processe
+top -  showung linux processe
 
-"kill" terminate processes manually
+kill - terminate processes manually
 
-"w" to know who is logged on and what they are doing 
+w - to know who is logged on and what they are doing 
 
-"whoami" current uses
+whoami - current uses
 
-"touch" creating empty file
+touch - creating empty file
 
-"dpkg -i name of deb file" to install deb file without APT
+dpkg -i name of deb file - to install deb file without APT
+```
+
 
 
 
