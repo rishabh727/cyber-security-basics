@@ -42,6 +42,15 @@ these three is use in miter arrack
 
 ![image](https://github.com/rishabh727/cyber-security-basics/assets/143151167/e258dd66-6ea4-4758-ab16-f0b7bf62b56a)
 
+#### how to use miter attack 
+there is 14 tactics and every tactics has multiple tecnics and every tecnics has multiple procedures
+
+examle: [reconnaissance](https://attack.mitre.org/tactics/TA0043) has 10 tacnics , one os them is [gather victim host information](https://attack.mitre.org/techniques/T1592) and inside it's procedures
+
+![Screenshot 2024-03-04 090657](https://github.com/rishabh727/cyber-security-basics/assets/143151167/4061ac06-0873-46c4-9eff-9003e59dd9fb)
+
+
+
 
 
 
